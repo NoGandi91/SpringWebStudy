@@ -1,5 +1,6 @@
 package org.nogandi.web;
 
+import org.nogandi.domain.ProductVO;
 import org.slf4j.Logger;
 
 import org.slf4j.LoggerFactory;
@@ -7,7 +8,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.nogandi.domain.ProductVO;
 @Controller
 public class SampleController3 {
 	

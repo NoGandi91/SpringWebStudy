@@ -1,4 +1,4 @@
-package com.nogandi.domain;
+package org.nogandi.domain;
 
 
 public class ProductVO {
