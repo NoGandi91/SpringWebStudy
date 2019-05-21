@@ -24,7 +24,7 @@ public class SampleControllerTest {
 	
 	@Inject
 	private WebApplicationContext wac;
-	
+	 
 	private MockMvc mockmvc;
 	
 	@Before

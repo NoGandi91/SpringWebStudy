@@ -20,7 +20,7 @@ public class MySQLConnectionTest {
 	// "jdbc:mysql://127.0.0.1:3306/book_ex?useSSL=false&serverTimezone=UTC";
 
 	private static final String USER = "nogandi";
-	private static final String PW = "1231230";
+	private static final String PW = "1231230"; 
 
 	@Test
 	public void testConnection() throws Exception {

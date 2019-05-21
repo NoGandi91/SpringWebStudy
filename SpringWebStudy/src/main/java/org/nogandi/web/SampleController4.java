@@ -18,7 +18,7 @@ public class SampleController4 {
 		
 		rttr.addFlashAttribute("msg", "This is the Message!! with redirected");
 		return "redirect:/doF";
-	}
+	} 
 	
 	@RequestMapping("doF")
 	public void doF(@ModelAttribute String msg) {

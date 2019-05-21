@@ -15,5 +15,5 @@ public class SampleController5 {
 		ProductVO vo = new ProductVO("ป๙วรป๙วร", 30000);
 		
 		return vo;
-	}
+	} 
 }

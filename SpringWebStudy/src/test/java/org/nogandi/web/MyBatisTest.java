@@ -19,7 +19,7 @@ public class MyBatisTest {
 	@Test
 	public void testFactory() {
 		System.out.println(sqlFactory);
-	}
+	} 
 	
 	@Test
 	public void testSession()throws Exception{
